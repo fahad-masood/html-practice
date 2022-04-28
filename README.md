@@ -1,3 +1,3 @@
 # html-practice
 
-- Polishing HTML skills (Ongoing)
+- Wrote some HTML code
